@@ -34,4 +34,4 @@ let g:python_highlight_operators = 1
 let g:python_highlight_all = 1
 let g:python_highlight_file_headers_as_comments = 1
 let g:python_slow_sync = 1
-
+let g:jedi#completions_enabled = 0
