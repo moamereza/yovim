@@ -1,7 +1,8 @@
 noremap <silent> <C-S-Left> :vertical resize +2<CR>
 noremap <silent> <C-S-Right> :vertical resize -2<CR>
-
-
+" noremap <silent> <C-S-Up> :horizontal resize +1<CR>
+" noremap <silent> <C-S-Down> :horizontal resize -1<CR>
+" map <C-S-r> :source ~/.vimrc<CR>
 
 " inoremap <C-e> :END<CR>
 " fzf
